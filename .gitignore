@@ -1,3 +1,10 @@
 *.root
 making*
 *.C
+*.png
+*.pdf
+*.tex
+*.log
+*.aux
+*.out
+*.eps
