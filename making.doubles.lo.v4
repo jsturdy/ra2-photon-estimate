@@ -1,0 +1,1027 @@
+[?1034h
+[1mRooFit v3.55 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2012 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+<ROOT.TH1D object ("gjetsDataBkgdSubNJets_100to200") at 0x2aea830>
+<ROOT.TH1D object ("gjetsDataNJets_100to200") at 0x2ae8fb0> <ROOT.TH1D object ("photons_mcTotal_100to200") at 0x2aea2d0>
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_100to200.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_100to200_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_100to200") at 0x2aeed20> <ROOT.TH1D object ("photons_mcTotal_100to200") at 0x2aea2d0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_100to200.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_100to200_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataNJets_100to200") at 0x2ba25a0> <ROOT.TH1D object ("zmumu_mcTotal_100to200") at 0x2ba7590>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_100to200.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_100to200_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_100to200") at 0x2ba6eb0> <ROOT.TH1D object ("zmumu_mcTotal_100to200") at 0x2ba7590>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_100to200.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_100to200_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataNJets_100to200") at 0x2ba25a0> <ROOT.TH1D object ("gjetsDataNJets_100to200") at 0x2ae8fb0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_100to200.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_100to200_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubNJets_100to200") at 0x2ba7a60> <ROOT.TH1D object ("gjetsDataBkgdSubNJets_100to200") at 0x2aea830>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_100to200.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_100to200_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_100to200") at 0x2ba6eb0> <ROOT.TH1D object ("photons_signalTotal_100to200") at 0x2aeed20>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_100to200.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_100to200_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_100to200") at 0x2ba7590> <ROOT.TH1D object ("photons_mcTotal_100to200") at 0x2aea2d0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_100to200.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_100to200_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataBkgdSubNJets_200to300") at 0x2e2ab70>
+<ROOT.TH1D object ("gjetsDataNJets_200to300") at 0x2e453e0> <ROOT.TH1D object ("photons_mcTotal_200to300") at 0x2e2a790>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_200to300.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_200to300_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_200to300") at 0x2e29fd0> <ROOT.TH1D object ("photons_mcTotal_200to300") at 0x2e2a790>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_200to300.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_200to300_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataNJets_200to300") at 0x2aea830> <ROOT.TH1D object ("zmumu_mcTotal_200to300") at 0x2e2fe30>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_200to300.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_200to300_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_200to300") at 0x2e2f9f0> <ROOT.TH1D object ("zmumu_mcTotal_200to300") at 0x2e2fe30>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_200to300.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_200to300_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataNJets_200to300") at 0x2aea830> <ROOT.TH1D object ("gjetsDataNJets_200to300") at 0x2e453e0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_200to300.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_200to300_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubNJets_200to300") at 0x2e30360> <ROOT.TH1D object ("gjetsDataBkgdSubNJets_200to300") at 0x2e2ab70>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_200to300.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_200to300_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_200to300") at 0x2e2f9f0> <ROOT.TH1D object ("photons_signalTotal_200to300") at 0x2e29fd0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_200to300.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_200to300_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_200to300") at 0x2e2fe30> <ROOT.TH1D object ("photons_mcTotal_200to300") at 0x2e2a790>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_200to300.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_200to300_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataBkgdSubNJets_300to450") at 0x2e7e890>
+<ROOT.TH1D object ("gjetsDataNJets_300to450") at 0x2e792b0> <ROOT.TH1D object ("photons_mcTotal_300to450") at 0x2e7e4b0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_300to450.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_300to450_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_300to450") at 0x2e7dc30> <ROOT.TH1D object ("photons_mcTotal_300to450") at 0x2e7e4b0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_300to450.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_300to450_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataNJets_300to450") at 0x2e2ab70> <ROOT.TH1D object ("zmumu_mcTotal_300to450") at 0x2e801b0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_300to450.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_300to450_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_300to450") at 0x2e7fbf0> <ROOT.TH1D object ("zmumu_mcTotal_300to450") at 0x2e801b0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_300to450.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_300to450_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataNJets_300to450") at 0x2e2ab70> <ROOT.TH1D object ("gjetsDataNJets_300to450") at 0x2e792b0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_300to450.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_300to450_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubNJets_300to450") at 0x2e80590> <ROOT.TH1D object ("gjetsDataBkgdSubNJets_300to450") at 0x2e7e890>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_300to450.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_300to450_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_300to450") at 0x2e7fbf0> <ROOT.TH1D object ("photons_signalTotal_300to450") at 0x2e7dc30>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_300to450.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_300to450_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_300to450") at 0x2e801b0> <ROOT.TH1D object ("photons_mcTotal_300to450") at 0x2e7e4b0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_300to450.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_300to450_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataBkgdSubNJets_100toInf") at 0x2e88070>
+<ROOT.TH1D object ("gjetsDataNJets_100toInf") at 0x2e84920> <ROOT.TH1D object ("photons_mcTotal_100toInf") at 0x2e82850>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_100toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_100toInf_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_100toInf") at 0x2e81fd0> <ROOT.TH1D object ("photons_mcTotal_100toInf") at 0x2e82850>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_100toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_100toInf_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataNJets_100toInf") at 0x2e7e890> <ROOT.TH1D object ("zmumu_mcTotal_100toInf") at 0x2e895b0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_100toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_100toInf_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_100toInf") at 0x2e88ff0> <ROOT.TH1D object ("zmumu_mcTotal_100toInf") at 0x2e895b0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_100toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_100toInf_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataNJets_100toInf") at 0x2e7e890> <ROOT.TH1D object ("gjetsDataNJets_100toInf") at 0x2e84920>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_100toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_100toInf_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubNJets_100toInf") at 0x2e899f0> <ROOT.TH1D object ("gjetsDataBkgdSubNJets_100toInf") at 0x2e88070>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_100toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_100toInf_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_100toInf") at 0x2e88ff0> <ROOT.TH1D object ("photons_signalTotal_100toInf") at 0x2e81fd0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_100toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_100toInf_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_100toInf") at 0x2e895b0> <ROOT.TH1D object ("photons_mcTotal_100toInf") at 0x2e82850>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_100toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_100toInf_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataBkgdSubNJets_200toInf") at 0x2e90db0>
+<ROOT.TH1D object ("gjetsDataNJets_200toInf") at 0x2e8da50> <ROOT.TH1D object ("photons_mcTotal_200toInf") at 0x2e909d0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_200toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_200toInf_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_200toInf") at 0x2e90210> <ROOT.TH1D object ("photons_mcTotal_200toInf") at 0x2e909d0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_200toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_200toInf_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataNJets_200toInf") at 0x2e88070> <ROOT.TH1D object ("zmumu_mcTotal_200toInf") at 0x2e92870>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_200toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_200toInf_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_200toInf") at 0x2e922b0> <ROOT.TH1D object ("zmumu_mcTotal_200toInf") at 0x2e92870>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_200toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_200toInf_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataNJets_200toInf") at 0x2e88070> <ROOT.TH1D object ("gjetsDataNJets_200toInf") at 0x2e8da50>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_200toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_200toInf_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubNJets_200toInf") at 0x2e92cb0> <ROOT.TH1D object ("gjetsDataBkgdSubNJets_200toInf") at 0x2e90db0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_200toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_200toInf_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_200toInf") at 0x2e922b0> <ROOT.TH1D object ("photons_signalTotal_200toInf") at 0x2e90210>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_200toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_200toInf_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_200toInf") at 0x2e92870> <ROOT.TH1D object ("photons_mcTotal_200toInf") at 0x2e909d0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_200toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_200toInf_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataBkgdSubNJets_450toInf") at 0x2e9a910>
+<ROOT.TH1D object ("gjetsDataNJets_450toInf") at 0x2e99280> <ROOT.TH1D object ("photons_mcTotal_450toInf") at 0x2e9a530>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_450toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_450toInf_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_450toInf") at 0x2e94d50> <ROOT.TH1D object ("photons_mcTotal_450toInf") at 0x2e9a530>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_450toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_450toInf_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataNJets_450toInf") at 0x2e90db0> <ROOT.TH1D object ("zmumu_mcTotal_450toInf") at 0x2e9bc70>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_450toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_450toInf_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_450toInf") at 0x2e9b890> <ROOT.TH1D object ("zmumu_mcTotal_450toInf") at 0x2e9bc70>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_450toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_450toInf_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataNJets_450toInf") at 0x2e90db0> <ROOT.TH1D object ("gjetsDataNJets_450toInf") at 0x2e99280>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_450toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_450toInf_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubNJets_450toInf") at 0x2e9c050> <ROOT.TH1D object ("gjetsDataBkgdSubNJets_450toInf") at 0x2e9a910>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_450toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_450toInf_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_450toInf") at 0x2e9b890> <ROOT.TH1D object ("photons_signalTotal_450toInf") at 0x2e94d50>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_450toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_450toInf_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_450toInf") at 0x2e9bc70> <ROOT.TH1D object ("photons_mcTotal_450toInf") at 0x2e9a530>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_450toInf.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_450toInf_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataHT_nj1_rebinned") at 0x2e9ed10>
+<ROOT.TH1D object ("gjets200HT_nj1_rebinned") at 0x2e9dd40>
+<ROOT.TH1D object ("gjets400HT_nj1_rebinned") at 0x2e9c7b0>
+<ROOT.TH1D object ("gjetsQCD500HT_nj1_rebinned") at 0x2ea1220>
+<ROOT.TH1D object ("gjetsQCD1000HT_nj1_rebinned") at 0x2ea1790>
+<ROOT.TH1D object ("gjetsTTBarHT_nj1_rebinned") at 0x2ea1b70>
+<ROOT.TH1D object ("gjetsWJetsHT_nj1_rebinned") at 0x2ea1fb0>
+<ROOT.TH1D object ("photons_signalTotal_HT_nj1") at 0x2ea2640>
+<ROOT.TH1D object ("photons_qcdTotal_HT_nj1") at 0x2ea2a80>
+<ROOT.TH1D object ("photons_mcTotal_HT_nj1") at 0x2ea3240>
+<ROOT.TH1D object ("gjetsDataBkgdSubHT_nj1") at 0x2e9d8b0>
+<ROOT.TH1D object ("gjetsDataHT_nj1_rebinned") at 0x2e9ed10> <ROOT.TH1D object ("photons_mcTotal_HT_nj1") at 0x2ea3240>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj1.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj1_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_HT_nj1") at 0x2ea2640> <ROOT.TH1D object ("photons_mcTotal_HT_nj1") at 0x2ea3240>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj1.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj1_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj1_rebinned") at 0x2ea3960> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj1") at 0x2ea3da0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj1.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj1_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj1") at 0x2ea8620> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj1") at 0x2ea3da0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj1.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj1_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj1_rebinned") at 0x2ea3960> <ROOT.TH1D object ("gjetsDataHT_nj1_rebinned") at 0x2e9ed10>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj1.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj1_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubHT_nj1") at 0x2ea90b0> <ROOT.TH1D object ("gjetsDataBkgdSubHT_nj1") at 0x2e9d8b0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj1.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj1_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj1") at 0x2ea8620> <ROOT.TH1D object ("photons_signalTotal_HT_nj1") at 0x2ea2640>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj1.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj1_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_HT_nj1") at 0x2ea3da0> <ROOT.TH1D object ("photons_mcTotal_HT_nj1") at 0x2ea3240>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj1.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj1_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataHT_nj2_rebinned") at 0x2eae520>
+<ROOT.TH1D object ("gjets200HT_nj2_rebinned") at 0x2eada20>
+<ROOT.TH1D object ("gjets400HT_nj2_rebinned") at 0x2eade00>
+<ROOT.TH1D object ("gjetsQCD500HT_nj2_rebinned") at 0x2ea9840>
+<ROOT.TH1D object ("gjetsQCD1000HT_nj2_rebinned") at 0x2ea9c80>
+<ROOT.TH1D object ("gjetsTTBarHT_nj2_rebinned") at 0x2eaa0c0>
+<ROOT.TH1D object ("gjetsWJetsHT_nj2_rebinned") at 0x2eaa4a0>
+<ROOT.TH1D object ("photons_signalTotal_HT_nj2") at 0x2eaa8e0>
+<ROOT.TH1D object ("photons_qcdTotal_HT_nj2") at 0x2eaad20>
+<ROOT.TH1D object ("photons_mcTotal_HT_nj2") at 0x2eab160>
+<ROOT.TH1D object ("gjetsDataBkgdSubHT_nj2") at 0x2ea62e0>
+<ROOT.TH1D object ("gjetsDataHT_nj2_rebinned") at 0x2eae520> <ROOT.TH1D object ("photons_mcTotal_HT_nj2") at 0x2eab160>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj2.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj2_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_HT_nj2") at 0x2eaa8e0> <ROOT.TH1D object ("photons_mcTotal_HT_nj2") at 0x2eab160>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj2.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj2_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj2_rebinned") at 0x2eaee30> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj2") at 0x2eb3bf0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj2.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj2_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj2") at 0x2eb34f0> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj2") at 0x2eb3bf0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj2.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj2_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj2_rebinned") at 0x2eaee30> <ROOT.TH1D object ("gjetsDataHT_nj2_rebinned") at 0x2eae520>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj2.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj2_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubHT_nj2") at 0x2eaf650> <ROOT.TH1D object ("gjetsDataBkgdSubHT_nj2") at 0x2ea62e0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj2.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj2_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj2") at 0x2eb34f0> <ROOT.TH1D object ("photons_signalTotal_HT_nj2") at 0x2eaa8e0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj2.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj2_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_HT_nj2") at 0x2eb3bf0> <ROOT.TH1D object ("photons_mcTotal_HT_nj2") at 0x2eab160>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj2.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj2_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataHT_nj3_rebinned") at 0x2eb70e0>
+<ROOT.TH1D object ("gjets200HT_nj3_rebinned") at 0x2eb74c0>
+<ROOT.TH1D object ("gjets400HT_nj3_rebinned") at 0x2eb8700>
+<ROOT.TH1D object ("gjetsQCD500HT_nj3_rebinned") at 0x2eb8b40>
+<ROOT.TH1D object ("gjetsQCD1000HT_nj3_rebinned") at 0x2eb1f30>
+<ROOT.TH1D object ("gjetsTTBarHT_nj3_rebinned") at 0x2eb49b0>
+<ROOT.TH1D object ("gjetsWJetsHT_nj3_rebinned") at 0x2eb4fa0>
+<ROOT.TH1D object ("photons_signalTotal_HT_nj3") at 0x2eb53e0>
+<ROOT.TH1D object ("photons_qcdTotal_HT_nj3") at 0x2eb5820>
+<ROOT.TH1D object ("photons_mcTotal_HT_nj3") at 0x2eb5c60>
+<ROOT.TH1D object ("gjetsDataBkgdSubHT_nj3") at 0x2eb8f80>
+<ROOT.TH1D object ("gjetsDataHT_nj3_rebinned") at 0x2eb70e0> <ROOT.TH1D object ("photons_mcTotal_HT_nj3") at 0x2eb5c60>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj3.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj3_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_HT_nj3") at 0x2eb53e0> <ROOT.TH1D object ("photons_mcTotal_HT_nj3") at 0x2eb5c60>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj3.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj3_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj3_rebinned") at 0x2eb62a0> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj3") at 0x2ebd9d0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj3.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj3_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj3") at 0x2eba3a0> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj3") at 0x2ebd9d0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj3.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj3_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj3_rebinned") at 0x2eb62a0> <ROOT.TH1D object ("gjetsDataHT_nj3_rebinned") at 0x2eb70e0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj3.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj3_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubHT_nj3") at 0x2ebdfc0> <ROOT.TH1D object ("gjetsDataBkgdSubHT_nj3") at 0x2eb8f80>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj3.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj3_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj3") at 0x2eba3a0> <ROOT.TH1D object ("photons_signalTotal_HT_nj3") at 0x2eb53e0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj3.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj3_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_HT_nj3") at 0x2ebd9d0> <ROOT.TH1D object ("photons_mcTotal_HT_nj3") at 0x2eb5c60>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj3.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj3_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataHT_nj4_rebinned") at 0x2ec1c30>
+<ROOT.TH1D object ("gjets200HT_nj4_rebinned") at 0x2ec0ee0>
+<ROOT.TH1D object ("gjets400HT_nj4_rebinned") at 0x2eba7e0>
+<ROOT.TH1D object ("gjetsQCD500HT_nj4_rebinned") at 0x2ebacd0>
+<ROOT.TH1D object ("gjetsQCD1000HT_nj4_rebinned") at 0x2ebb110>
+<ROOT.TH1D object ("gjetsTTBarHT_nj4_rebinned") at 0x2ebb4f0>
+<ROOT.TH1D object ("gjetsWJetsHT_nj4_rebinned") at 0x2ebb930>
+<ROOT.TH1D object ("photons_signalTotal_HT_nj4") at 0x2ebbd70>
+<ROOT.TH1D object ("photons_qcdTotal_HT_nj4") at 0x2ebc1b0>
+<ROOT.TH1D object ("photons_mcTotal_HT_nj4") at 0x2ec2a20>
+<ROOT.TH1D object ("gjetsDataBkgdSubHT_nj4") at 0x2ec2010>
+<ROOT.TH1D object ("gjetsDataHT_nj4_rebinned") at 0x2ec1c30> <ROOT.TH1D object ("photons_mcTotal_HT_nj4") at 0x2ec2a20>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj4.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj4_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_HT_nj4") at 0x2ebbd70> <ROOT.TH1D object ("photons_mcTotal_HT_nj4") at 0x2ec2a20>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj4.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj4_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj4_rebinned") at 0x2ec2e00> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj4") at 0x2ec75a0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj4.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj4_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj4") at 0x2ec41b0> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj4") at 0x2ec75a0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj4.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj4_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj4_rebinned") at 0x2ec2e00> <ROOT.TH1D object ("gjetsDataHT_nj4_rebinned") at 0x2ec1c30>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj4.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj4_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubHT_nj4") at 0x2eb8f80> <ROOT.TH1D object ("gjetsDataBkgdSubHT_nj4") at 0x2ec2010>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj4.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj4_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj4") at 0x2ec41b0> <ROOT.TH1D object ("photons_signalTotal_HT_nj4") at 0x2ebbd70>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj4.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj4_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_HT_nj4") at 0x2ec75a0> <ROOT.TH1D object ("photons_mcTotal_HT_nj4") at 0x2ec2a20>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj4.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj4_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataHT_nj5_rebinned") at 0x2ec7ec0>
+<ROOT.TH1D object ("gjets200HT_nj5_rebinned") at 0x2ec5100>
+<ROOT.TH1D object ("gjets400HT_nj5_rebinned") at 0x2ec9f20>
+<ROOT.TH1D object ("gjetsQCD500HT_nj5_rebinned") at 0x2eca510>
+<ROOT.TH1D object ("gjetsQCD1000HT_nj5_rebinned") at 0x2eca950>
+<ROOT.TH1D object ("gjetsTTBarHT_nj5_rebinned") at 0x2ecad90>
+<ROOT.TH1D object ("gjetsWJetsHT_nj5_rebinned") at 0x2ecb1d0>
+<ROOT.TH1D object ("photons_signalTotal_HT_nj5") at 0x2ecb610>
+<ROOT.TH1D object ("photons_qcdTotal_HT_nj5") at 0x2ecba50>
+<ROOT.TH1D object ("photons_mcTotal_HT_nj5") at 0x2ecc130>
+<ROOT.TH1D object ("gjetsDataBkgdSubHT_nj5") at 0x2ec4d00>
+<ROOT.TH1D object ("gjetsDataHT_nj5_rebinned") at 0x2ec7ec0> <ROOT.TH1D object ("photons_mcTotal_HT_nj5") at 0x2ecc130>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj5_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_HT_nj5") at 0x2ecb610> <ROOT.TH1D object ("photons_mcTotal_HT_nj5") at 0x2ecc130>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj5_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj5_rebinned") at 0x2ecc510> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj5") at 0x2ed1160>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj5_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj5") at 0x2ed0d20> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj5") at 0x2ed1160>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj5_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj5_rebinned") at 0x2ecc510> <ROOT.TH1D object ("gjetsDataHT_nj5_rebinned") at 0x2ec7ec0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj5_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubHT_nj5") at 0x2ec2010> <ROOT.TH1D object ("gjetsDataBkgdSubHT_nj5") at 0x2ec4d00>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj5_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj5") at 0x2ed0d20> <ROOT.TH1D object ("photons_signalTotal_HT_nj5") at 0x2ecb610>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj5_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_HT_nj5") at 0x2ed1160> <ROOT.TH1D object ("photons_mcTotal_HT_nj5") at 0x2ecc130>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj5_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataHT_nj6_rebinned") at 0x2eb8f80>
+<ROOT.TH1D object ("gjets200HT_nj6_rebinned") at 0x2ed4a60>
+<ROOT.TH1D object ("gjets400HT_nj6_rebinned") at 0x2ed4e40>
+<ROOT.TH1D object ("gjetsQCD500HT_nj6_rebinned") at 0x2ecd350>
+<ROOT.TH1D object ("gjetsQCD1000HT_nj6_rebinned") at 0x2ecd790>
+<ROOT.TH1D object ("gjetsTTBarHT_nj6_rebinned") at 0x2ecdbd0>
+<ROOT.TH1D object ("gjetsWJetsHT_nj6_rebinned") at 0x2ecdfb0>
+<ROOT.TH1D object ("photons_signalTotal_HT_nj6") at 0x2ece390>
+<ROOT.TH1D object ("photons_qcdTotal_HT_nj6") at 0x2ece770>
+<ROOT.TH1D object ("photons_mcTotal_HT_nj6") at 0x2eceb50>
+<ROOT.TH1D object ("gjetsDataBkgdSubHT_nj6") at 0x2ed3dc0>
+<ROOT.TH1D object ("gjetsDataHT_nj6_rebinned") at 0x2eb8f80> <ROOT.TH1D object ("photons_mcTotal_HT_nj6") at 0x2eceb50>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj6.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj6_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_HT_nj6") at 0x2ece390> <ROOT.TH1D object ("photons_mcTotal_HT_nj6") at 0x2eceb50>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj6.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj6_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj6_rebinned") at 0x2ed60c0> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj6") at 0x2edaae0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj6.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj6_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj6") at 0x2eda3f0> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj6") at 0x2edaae0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj6.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj6_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj6_rebinned") at 0x2ed60c0> <ROOT.TH1D object ("gjetsDataHT_nj6_rebinned") at 0x2eb8f80>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj6.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj6_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubHT_nj6") at 0x2edaf20> <ROOT.TH1D object ("gjetsDataBkgdSubHT_nj6") at 0x2ed3dc0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj6.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj6_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj6") at 0x2eda3f0> <ROOT.TH1D object ("photons_signalTotal_HT_nj6") at 0x2ece390>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj6.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj6_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_HT_nj6") at 0x2edaae0> <ROOT.TH1D object ("photons_mcTotal_HT_nj6") at 0x2eceb50>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj6.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj6_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataHT_nj7_rebinned") at 0x2eecc60>
+<ROOT.TH1D object ("gjets200HT_nj7_rebinned") at 0x2eed040>
+<ROOT.TH1D object ("gjets400HT_nj7_rebinned") at 0x2eebce0>
+<ROOT.TH1D object ("gjetsQCD500HT_nj7_rebinned") at 0x2eec0c0>
+<ROOT.TH1D object ("gjetsQCD1000HT_nj7_rebinned") at 0x2eec500>
+<ROOT.TH1D object ("gjetsTTBarHT_nj7_rebinned") at 0x2ed6d80>
+<ROOT.TH1D object ("gjetsWJetsHT_nj7_rebinned") at 0x2ed71c0>
+<ROOT.TH1D object ("photons_signalTotal_HT_nj7") at 0x2ed7600>
+<ROOT.TH1D object ("photons_qcdTotal_HT_nj7") at 0x2ed79e0>
+<ROOT.TH1D object ("photons_mcTotal_HT_nj7") at 0x2ed8060>
+<ROOT.TH1D object ("gjetsDataBkgdSubHT_nj7") at 0x2eeb800>
+<ROOT.TH1D object ("gjetsDataHT_nj7_rebinned") at 0x2eecc60> <ROOT.TH1D object ("photons_mcTotal_HT_nj7") at 0x2ed8060>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj7_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_HT_nj7") at 0x2ed7600> <ROOT.TH1D object ("photons_mcTotal_HT_nj7") at 0x2ed8060>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj7_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj7_rebinned") at 0x2ed84a0> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj7") at 0x2edf850>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj7_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj7") at 0x2ee5730> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj7") at 0x2edf850>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj7_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj7_rebinned") at 0x2ed84a0> <ROOT.TH1D object ("gjetsDataHT_nj7_rebinned") at 0x2eecc60>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj7_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubHT_nj7") at 0x2ed3dc0> <ROOT.TH1D object ("gjetsDataBkgdSubHT_nj7") at 0x2eeb800>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj7_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj7") at 0x2ee5730> <ROOT.TH1D object ("photons_signalTotal_HT_nj7") at 0x2ed7600>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj7_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_HT_nj7") at 0x2edf850> <ROOT.TH1D object ("photons_mcTotal_HT_nj7") at 0x2ed8060>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj7_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataHT_nj3to5_rebinned") at 0x2eeefe0>
+<ROOT.TH1D object ("gjets200HT_nj3to5_rebinned") at 0x2eef3c0>
+<ROOT.TH1D object ("gjets400HT_nj3to5_rebinned") at 0x2edfc90>
+<ROOT.TH1D object ("gjetsQCD500HT_nj3to5_rebinned") at 0x2ee0280>
+<ROOT.TH1D object ("gjetsQCD1000HT_nj3to5_rebinned") at 0x2ee0660>
+<ROOT.TH1D object ("gjetsTTBarHT_nj3to5_rebinned") at 0x2ee0a40>
+<ROOT.TH1D object ("gjetsWJetsHT_nj3to5_rebinned") at 0x2ee0e20>
+<ROOT.TH1D object ("photons_signalTotal_HT_nj3to5") at 0x2ee1260>
+<ROOT.TH1D object ("photons_qcdTotal_HT_nj3to5") at 0x2ee16a0>
+<ROOT.TH1D object ("photons_mcTotal_HT_nj3to5") at 0x2eefae0>
+<ROOT.TH1D object ("gjetsDataBkgdSubHT_nj3to5") at 0x2ee3cd0>
+<ROOT.TH1D object ("gjetsDataHT_nj3to5_rebinned") at 0x2eeefe0> <ROOT.TH1D object ("photons_mcTotal_HT_nj3to5") at 0x2eefae0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj3to5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj3to5_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_HT_nj3to5") at 0x2ee1260> <ROOT.TH1D object ("photons_mcTotal_HT_nj3to5") at 0x2eefae0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj3to5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj3to5_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj3to5_rebinned") at 0x2eefec0> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj3to5") at 0x2ef4ad0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj3to5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj3to5_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj3to5") at 0x2ef44e0> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj3to5") at 0x2ef4ad0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj3to5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj3to5_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj3to5_rebinned") at 0x2eefec0> <ROOT.TH1D object ("gjetsDataHT_nj3to5_rebinned") at 0x2eeefe0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj3to5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj3to5_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubHT_nj3to5") at 0x2eeb800> <ROOT.TH1D object ("gjetsDataBkgdSubHT_nj3to5") at 0x2ee3cd0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj3to5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj3to5_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj3to5") at 0x2ef44e0> <ROOT.TH1D object ("photons_signalTotal_HT_nj3to5") at 0x2ee1260>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj3to5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj3to5_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_HT_nj3to5") at 0x2ef4ad0> <ROOT.TH1D object ("photons_mcTotal_HT_nj3to5") at 0x2eefae0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj3to5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj3to5_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataHT_nj6to7_rebinned") at 0x2ed3dc0>
+<ROOT.TH1D object ("gjets200HT_nj6to7_rebinned") at 0x2ef7f40>
+<ROOT.TH1D object ("gjets400HT_nj6to7_rebinned") at 0x2ef12e0>
+<ROOT.TH1D object ("gjetsQCD500HT_nj6to7_rebinned") at 0x2ef18a0>
+<ROOT.TH1D object ("gjetsQCD1000HT_nj6to7_rebinned") at 0x2ef1c80>
+<ROOT.TH1D object ("gjetsTTBarHT_nj6to7_rebinned") at 0x2ef20c0>
+<ROOT.TH1D object ("gjetsWJetsHT_nj6to7_rebinned") at 0x2ef2500>
+<ROOT.TH1D object ("photons_signalTotal_HT_nj6to7") at 0x2ef2b90>
+<ROOT.TH1D object ("photons_qcdTotal_HT_nj6to7") at 0x2ef9290>
+<ROOT.TH1D object ("photons_mcTotal_HT_nj6to7") at 0x2ef9670>
+<ROOT.TH1D object ("gjetsDataBkgdSubHT_nj6to7") at 0x2ef7b40>
+<ROOT.TH1D object ("gjetsDataHT_nj6to7_rebinned") at 0x2ed3dc0> <ROOT.TH1D object ("photons_mcTotal_HT_nj6to7") at 0x2ef9670>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj6to7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj6to7_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_HT_nj6to7") at 0x2ef2b90> <ROOT.TH1D object ("photons_mcTotal_HT_nj6to7") at 0x2ef9670>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj6to7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj6to7_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj6to7_rebinned") at 0x2ef9a50> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj6to7") at 0x2efe4a0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj6to7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj6to7_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj6to7") at 0x2efae70> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj6to7") at 0x2efe4a0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj6to7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj6to7_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj6to7_rebinned") at 0x2ef9a50> <ROOT.TH1D object ("gjetsDataHT_nj6to7_rebinned") at 0x2ed3dc0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj6to7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj6to7_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubHT_nj6to7") at 0x2ee3cb0> <ROOT.TH1D object ("gjetsDataBkgdSubHT_nj6to7") at 0x2ef7b40>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj6to7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj6to7_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj6to7") at 0x2efae70> <ROOT.TH1D object ("photons_signalTotal_HT_nj6to7") at 0x2ef2b90>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj6to7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj6to7_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_HT_nj6to7") at 0x2efe4a0> <ROOT.TH1D object ("photons_mcTotal_HT_nj6to7") at 0x2ef9670>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj6to7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj6to7_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataHT_nj3plus_rebinned") at 0x2f02010>
+<ROOT.TH1D object ("gjets200HT_nj3plus_rebinned") at 0x2f023f0>
+<ROOT.TH1D object ("gjets400HT_nj3plus_rebinned") at 0x2f027d0>
+<ROOT.TH1D object ("gjetsQCD500HT_nj3plus_rebinned") at 0x2f02bb0>
+<ROOT.TH1D object ("gjetsQCD1000HT_nj3plus_rebinned") at 0x2efb2b0>
+<ROOT.TH1D object ("gjetsTTBarHT_nj3plus_rebinned") at 0x2efb6f0>
+<ROOT.TH1D object ("gjetsWJetsHT_nj3plus_rebinned") at 0x2efbb30>
+<ROOT.TH1D object ("photons_signalTotal_HT_nj3plus") at 0x2efbf70>
+<ROOT.TH1D object ("photons_qcdTotal_HT_nj3plus") at 0x2efc3b0>
+<ROOT.TH1D object ("photons_mcTotal_HT_nj3plus") at 0x2efc7f0>
+<ROOT.TH1D object ("gjetsDataBkgdSubHT_nj3plus") at 0x2eff570>
+<ROOT.TH1D object ("gjetsDataHT_nj3plus_rebinned") at 0x2f02010> <ROOT.TH1D object ("photons_mcTotal_HT_nj3plus") at 0x2efc7f0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj3plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj3plus_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_HT_nj3plus") at 0x2efbf70> <ROOT.TH1D object ("photons_mcTotal_HT_nj3plus") at 0x2efc7f0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj3plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj3plus_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj3plus_rebinned") at 0x2efce60> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj3plus") at 0x2f07dd0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj3plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj3plus_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj3plus") at 0x2f077e0> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj3plus") at 0x2f07dd0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj3plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj3plus_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj3plus_rebinned") at 0x2efce60> <ROOT.TH1D object ("gjetsDataHT_nj3plus_rebinned") at 0x2f02010>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj3plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj3plus_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubHT_nj3plus") at 0x2ef7b40> <ROOT.TH1D object ("gjetsDataBkgdSubHT_nj3plus") at 0x2eff570>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj3plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj3plus_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj3plus") at 0x2f077e0> <ROOT.TH1D object ("photons_signalTotal_HT_nj3plus") at 0x2efbf70>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj3plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj3plus_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_HT_nj3plus") at 0x2f07dd0> <ROOT.TH1D object ("photons_mcTotal_HT_nj3plus") at 0x2efc7f0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj3plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj3plus_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataHT_nj2plus_rebinned") at 0x2f09b40>
+<ROOT.TH1D object ("gjets200HT_nj2plus_rebinned") at 0x2f09fb0>
+<ROOT.TH1D object ("gjets400HT_nj2plus_rebinned") at 0x2f0a770>
+<ROOT.TH1D object ("gjetsQCD500HT_nj2plus_rebinned") at 0x2f0ab50>
+<ROOT.TH1D object ("gjetsQCD1000HT_nj2plus_rebinned") at 0x2f0b1f0>
+<ROOT.TH1D object ("gjetsTTBarHT_nj2plus_rebinned") at 0x2f0b630>
+<ROOT.TH1D object ("gjetsWJetsHT_nj2plus_rebinned") at 0x2f0ba10>
+<ROOT.TH1D object ("photons_signalTotal_HT_nj2plus") at 0x2f0be50>
+<ROOT.TH1D object ("photons_qcdTotal_HT_nj2plus") at 0x2f0c840>
+<ROOT.TH1D object ("photons_mcTotal_HT_nj2plus") at 0x2f0cc20>
+<ROOT.TH1D object ("gjetsDataBkgdSubHT_nj2plus") at 0x2f05bc0>
+<ROOT.TH1D object ("gjetsDataHT_nj2plus_rebinned") at 0x2f09b40> <ROOT.TH1D object ("photons_mcTotal_HT_nj2plus") at 0x2f0cc20>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj2plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_HT_nj2plus_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_HT_nj2plus") at 0x2f0be50> <ROOT.TH1D object ("photons_mcTotal_HT_nj2plus") at 0x2f0cc20>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj2plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_HT_nj2plus_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj2plus_rebinned") at 0x2f0d000> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj2plus") at 0x2f0e5b0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj2plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_HT_nj2plus_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj2plus") at 0x2f0e1d0> <ROOT.TH1D object ("zmumu_mcTotal_HT_nj2plus") at 0x2f0e5b0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj2plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_HT_nj2plus_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataHT_nj2plus_rebinned") at 0x2f0d000> <ROOT.TH1D object ("gjetsDataHT_nj2plus_rebinned") at 0x2f09b40>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj2plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_HT_nj2plus_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubHT_nj2plus") at 0x2eff570> <ROOT.TH1D object ("gjetsDataBkgdSubHT_nj2plus") at 0x2f05bc0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj2plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_HT_nj2plus_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_HT_nj2plus") at 0x2f0e1d0> <ROOT.TH1D object ("photons_signalTotal_HT_nj2plus") at 0x2f0be50>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj2plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_HT_nj2plus_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_HT_nj2plus") at 0x2f0e5b0> <ROOT.TH1D object ("photons_mcTotal_HT_nj2plus") at 0x2f0cc20>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj2plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_HT_nj2plus_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataMHT_nj1_rebinned") at 0x2f0e9f0> <ROOT.TH1D object ("photons_mcTotal_MHT_nj1") at 0x2f15f90>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj1.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj1_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_MHT_nj1") at 0x2f15550> <ROOT.TH1D object ("photons_mcTotal_MHT_nj1") at 0x2f15f90>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj1.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj1_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj1_rebinned") at 0x2f165c0> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj1") at 0x2f16a00>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj1.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj1_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj1") at 0x2f1b030> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj1") at 0x2f16a00>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj1.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj1_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj1_rebinned") at 0x2f165c0> <ROOT.TH1D object ("gjetsDataMHT_nj1_rebinned") at 0x2f0e9f0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj1.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj1_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubMHT_nj1") at 0x2f1bb90> <ROOT.TH1D object ("gjetsDataBkgdSubMHT_nj1") at 0x2ef7b40>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj1.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj1_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj1") at 0x2f1b030> <ROOT.TH1D object ("photons_signalTotal_MHT_nj1") at 0x2f15550>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj1.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj1_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_MHT_nj1") at 0x2f16a00> <ROOT.TH1D object ("photons_mcTotal_MHT_nj1") at 0x2f15f90>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj1.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj1_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataMHT_nj2_rebinned") at 0x2f1f030> <ROOT.TH1D object ("photons_mcTotal_MHT_nj2") at 0x2f21090>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj2.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj2_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_MHT_nj2") at 0x2f208d0> <ROOT.TH1D object ("photons_mcTotal_MHT_nj2") at 0x2f21090>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj2.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj2_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj2_rebinned") at 0x2f21470> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj2") at 0x2f25f40>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj2.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj2_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj2") at 0x2f22b50> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj2") at 0x2f25f40>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj2.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj2_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj2_rebinned") at 0x2f21470> <ROOT.TH1D object ("gjetsDataMHT_nj2_rebinned") at 0x2f1f030>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj2.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj2_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubMHT_nj2") at 0x2ef7b40> <ROOT.TH1D object ("gjetsDataBkgdSubMHT_nj2") at 0x2f1c250>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj2.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj2_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj2") at 0x2f22b50> <ROOT.TH1D object ("photons_signalTotal_MHT_nj2") at 0x2f208d0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj2.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj2_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_MHT_nj2") at 0x2f25f40> <ROOT.TH1D object ("photons_mcTotal_MHT_nj2") at 0x2f21090>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj2.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj2_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataMHT_nj3_rebinned") at 0x2f1bb60> <ROOT.TH1D object ("photons_mcTotal_MHT_nj3") at 0x2f2a720>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj3.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj3_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_MHT_nj3") at 0x2f24690> <ROOT.TH1D object ("photons_mcTotal_MHT_nj3") at 0x2f2a720>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj3.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj3_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj3_rebinned") at 0x2f2ad30> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj3") at 0x2f2c9d0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj3.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj3_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj3") at 0x2f2c390> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj3") at 0x2f2c9d0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj3.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj3_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj3_rebinned") at 0x2f2ad30> <ROOT.TH1D object ("gjetsDataMHT_nj3_rebinned") at 0x2f1bb60>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj3.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj3_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubMHT_nj3") at 0x2f2cdb0> <ROOT.TH1D object ("gjetsDataBkgdSubMHT_nj3") at 0x2f29750>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj3.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj3_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj3") at 0x2f2c390> <ROOT.TH1D object ("photons_signalTotal_MHT_nj3") at 0x2f24690>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj3.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj3_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_MHT_nj3") at 0x2f2c9d0> <ROOT.TH1D object ("photons_mcTotal_MHT_nj3") at 0x2f2a720>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj3.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj3_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataMHT_nj4_rebinned") at 0x2f31a00> <ROOT.TH1D object ("photons_mcTotal_MHT_nj4") at 0x2f2ec20>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj4.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj4_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_MHT_nj4") at 0x2f2e3a0> <ROOT.TH1D object ("photons_mcTotal_MHT_nj4") at 0x2f2ec20>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj4.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj4_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj4_rebinned") at 0x2f349e0> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj4") at 0x2f364d0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj4.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj4_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj4") at 0x2f35e30> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj4") at 0x2f364d0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj4.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj4_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj4_rebinned") at 0x2f349e0> <ROOT.TH1D object ("gjetsDataMHT_nj4_rebinned") at 0x2f31a00>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj4.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj4_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubMHT_nj4") at 0x2f36910> <ROOT.TH1D object ("gjetsDataBkgdSubMHT_nj4") at 0x2f32fa0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj4.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj4_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj4") at 0x2f35e30> <ROOT.TH1D object ("photons_signalTotal_MHT_nj4") at 0x2f2e3a0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj4.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj4_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_MHT_nj4") at 0x2f364d0> <ROOT.TH1D object ("photons_mcTotal_MHT_nj4") at 0x2f2ec20>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj4.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj4_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataMHT_nj5_rebinned") at 0x2f3a620> <ROOT.TH1D object ("photons_mcTotal_MHT_nj5") at 0x2f38440>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj5_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_MHT_nj5") at 0x2f37c20> <ROOT.TH1D object ("photons_mcTotal_MHT_nj5") at 0x2f38440>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj5_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj5_rebinned") at 0x2f3e2e0> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj5") at 0x2f3fb20>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj5_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj5") at 0x2f3f740> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj5") at 0x2f3fb20>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj5_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj5_rebinned") at 0x2f3e2e0> <ROOT.TH1D object ("gjetsDataMHT_nj5_rebinned") at 0x2f3a620>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj5_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubMHT_nj5") at 0x2f42fc0> <ROOT.TH1D object ("gjetsDataBkgdSubMHT_nj5") at 0x2f3bb20>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj5_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj5") at 0x2f3f740> <ROOT.TH1D object ("photons_signalTotal_MHT_nj5") at 0x2f37c20>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj5_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_MHT_nj5") at 0x2f3fb20> <ROOT.TH1D object ("photons_mcTotal_MHT_nj5") at 0x2f38440>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj5_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataMHT_nj6_rebinned") at 0x2f43400> <ROOT.TH1D object ("photons_mcTotal_MHT_nj6") at 0x2f47680>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj6.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj6_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_MHT_nj6") at 0x2f41440> <ROOT.TH1D object ("photons_mcTotal_MHT_nj6") at 0x2f47680>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj6.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj6_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj6_rebinned") at 0x2f47a60> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj6") at 0x2f4c480>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj6.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj6_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj6") at 0x2f48e60> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj6") at 0x2f4c480>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj6.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj6_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj6_rebinned") at 0x2f47a60> <ROOT.TH1D object ("gjetsDataMHT_nj6_rebinned") at 0x2f43400>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj6.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj6_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubMHT_nj6") at 0x2f3bb20> <ROOT.TH1D object ("gjetsDataBkgdSubMHT_nj6") at 0x2f45a80>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj6.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj6_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj6") at 0x2f48e60> <ROOT.TH1D object ("photons_signalTotal_MHT_nj6") at 0x2f41440>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj6.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj6_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_MHT_nj6") at 0x2f4c480> <ROOT.TH1D object ("photons_mcTotal_MHT_nj6") at 0x2f47680>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj6.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj6_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataMHT_nj7_rebinned") at 0x2f4f640> <ROOT.TH1D object ("photons_mcTotal_MHT_nj7") at 0x2f508c0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj7_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_MHT_nj7") at 0x2f4fc80> <ROOT.TH1D object ("photons_mcTotal_MHT_nj7") at 0x2f508c0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj7_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj7_rebinned") at 0x2f53e40> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj7") at 0x2f50d00>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj7_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj7") at 0x2f55670> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj7") at 0x2f50d00>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj7_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj7_rebinned") at 0x2f53e40> <ROOT.TH1D object ("gjetsDataMHT_nj7_rebinned") at 0x2f4f640>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj7_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubMHT_nj7") at 0x2f512c0> <ROOT.TH1D object ("gjetsDataBkgdSubMHT_nj7") at 0x2f42fc0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj7_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj7") at 0x2f55670> <ROOT.TH1D object ("photons_signalTotal_MHT_nj7") at 0x2f4fc80>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj7_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_MHT_nj7") at 0x2f50d00> <ROOT.TH1D object ("photons_mcTotal_MHT_nj7") at 0x2f508c0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj7_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataMHT_nj3to5_rebinned") at 0x2f52e20> <ROOT.TH1D object ("photons_mcTotal_MHT_nj3to5") at 0x2f5a340>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj3to5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj3to5_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_MHT_nj3to5") at 0x2f57200> <ROOT.TH1D object ("photons_mcTotal_MHT_nj3to5") at 0x2f5a340>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj3to5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj3to5_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj3to5_rebinned") at 0x2f5a970> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj3to5") at 0x2f5c070>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj3to5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj3to5_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj3to5") at 0x2f5bc30> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj3to5") at 0x2f5c070>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj3to5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj3to5_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj3to5_rebinned") at 0x2f5a970> <ROOT.TH1D object ("gjetsDataMHT_nj3to5_rebinned") at 0x2f52e20>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj3to5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj3to5_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubMHT_nj3to5") at 0x2f42fc0> <ROOT.TH1D object ("gjetsDataBkgdSubMHT_nj3to5") at 0x2f56df0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj3to5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj3to5_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj3to5") at 0x2f5bc30> <ROOT.TH1D object ("photons_signalTotal_MHT_nj3to5") at 0x2f57200>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj3to5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj3to5_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_MHT_nj3to5") at 0x2f5c070> <ROOT.TH1D object ("photons_mcTotal_MHT_nj3to5") at 0x2f5a340>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj3to5.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj3to5_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataMHT_nj6to7_rebinned") at 0x2f629a0> <ROOT.TH1D object ("photons_mcTotal_MHT_nj6to7") at 0x2f640a0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj6to7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj6to7_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_MHT_nj6to7") at 0x2f638e0> <ROOT.TH1D object ("photons_mcTotal_MHT_nj6to7") at 0x2f640a0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj6to7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj6to7_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj6to7_rebinned") at 0x2f64480> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj6to7") at 0x2f66190>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj6to7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj6to7_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj6to7") at 0x2f65ae0> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj6to7") at 0x2f66190>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj6to7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj6to7_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj6to7_rebinned") at 0x2f64480> <ROOT.TH1D object ("gjetsDataMHT_nj6to7_rebinned") at 0x2f629a0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj6to7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj6to7_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubMHT_nj6to7") at 0x2f56df0> <ROOT.TH1D object ("gjetsDataBkgdSubMHT_nj6to7") at 0x2f634d0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj6to7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj6to7_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj6to7") at 0x2f65ae0> <ROOT.TH1D object ("photons_signalTotal_MHT_nj6to7") at 0x2f638e0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj6to7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj6to7_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_MHT_nj6to7") at 0x2f66190> <ROOT.TH1D object ("photons_mcTotal_MHT_nj6to7") at 0x2f640a0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj6to7.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj6to7_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataMHT_nj3plus_rebinned") at 0x2f6a0c0> <ROOT.TH1D object ("photons_mcTotal_MHT_nj3plus") at 0x2f67760>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj3plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj3plus_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_MHT_nj3plus") at 0x2f66fa0> <ROOT.TH1D object ("photons_mcTotal_MHT_nj3plus") at 0x2f67760>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj3plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj3plus_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj3plus_rebinned") at 0x2f67de0> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj3plus") at 0x2f6f7a0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj3plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj3plus_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj3plus") at 0x2f6f360> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj3plus") at 0x2f6f7a0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj3plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj3plus_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj3plus_rebinned") at 0x2f67de0> <ROOT.TH1D object ("gjetsDataMHT_nj3plus_rebinned") at 0x2f6a0c0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj3plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj3plus_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubMHT_nj3plus") at 0x2f6ea50> <ROOT.TH1D object ("gjetsDataBkgdSubMHT_nj3plus") at 0x2f6c620>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj3plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj3plus_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj3plus") at 0x2f6f360> <ROOT.TH1D object ("photons_signalTotal_MHT_nj3plus") at 0x2f66fa0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj3plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj3plus_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_MHT_nj3plus") at 0x2f6f7a0> <ROOT.TH1D object ("photons_mcTotal_MHT_nj3plus") at 0x2f67760>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj3plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj3plus_logy.eps has been created
+<ROOT.TH1D object ("gjetsDataMHT_nj2plus_rebinned") at 0x2f74780> <ROOT.TH1D object ("photons_mcTotal_MHT_nj2plus") at 0x2f76910>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj2plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsDataMC_MHT_nj2plus_logy.eps has been created
+<ROOT.TH1D object ("photons_signalTotal_MHT_nj2plus") at 0x2f71110> <ROOT.TH1D object ("photons_mcTotal_MHT_nj2plus") at 0x2f76910>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj2plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/photonsSignalMC_MHT_nj2plus_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj2plus_rebinned") at 0x2f76f50> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj2plus") at 0x2f7b7c0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj2plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsDataMC_MHT_nj2plus_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj2plus") at 0x2f783d0> <ROOT.TH1D object ("zmumu_mcTotal_MHT_nj2plus") at 0x2f7b7c0>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj2plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/dimuonsSignalMC_MHT_nj2plus_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataMHT_nj2plus_rebinned") at 0x2f76f50> <ROOT.TH1D object ("gjetsDataMHT_nj2plus_rebinned") at 0x2f74780>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj2plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaData_ratio_MHT_nj2plus_logy.eps has been created
+<ROOT.TH1D object ("zmumuDataBkgdSubMHT_nj2plus") at 0x2f6c620> <ROOT.TH1D object ("gjetsDataBkgdSubMHT_nj2plus") at 0x2f76130>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj2plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaDataBkgdSub_ratio_MHT_nj2plus_logy.eps has been created
+<ROOT.TH1D object ("zmumu_signalTotal_MHT_nj2plus") at 0x2f783d0> <ROOT.TH1D object ("photons_signalTotal_MHT_nj2plus") at 0x2f71110>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj2plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMC_ratio_MHT_nj2plus_logy.eps has been created
+<ROOT.TH1D object ("zmumu_mcTotal_MHT_nj2plus") at 0x2f7b7c0> <ROOT.TH1D object ("photons_mcTotal_MHT_nj2plus") at 0x2f76910>
+TCanvas::Constructor:0: RuntimeWarning: Deleting canvas with same name: output
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj2plus.eps has been created
+Info in <TCanvas::Print>: eps file /media/btrfs/research/BackgroundStudies/ZInvisible/Photons/03.12.2013/LO/zmumuGammaMCwBKGD_ratio_MHT_nj2plus_logy.eps has been created

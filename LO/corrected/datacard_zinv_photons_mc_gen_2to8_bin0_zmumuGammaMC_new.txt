@@ -1,0 +1,24 @@
+# General information:
+luminosity = 19371     # given in pb-1
+channels = 36          # total number of channels / bins. Counting ordering, MHT, HT and nJets.
+nuisances = 2          # number of nuisance/uncertainties
+sample = zinvis        # name of the sample
+
+# bin1 is for nJets [3, 5], HT [500, 800] and MHT [200, 300]; bin2 is for nJets [3, 5], HT [500, 800] and MHT [300, 450] ...
+channel = bin1; bin2; bin3; bin4; bin5; bin6; bin7; bin8; bin9; bin10; bin11; bin12; bin13; bin14; bin15; bin16; bin17; bin18; bin19; bin20; bin21; bin22; bin23; bin24; bin25; bin26; bin27; bin28; bin29; bin30; bin31; bin32; bin33; bin34; bin35; bin36;
+
+# Predicted events
+zinvis_events =     1555.27    864.85    246.03    36.32    198.86    118.37    46.63    29.04    79.74    44.31    18.27    16.16    23.99    13.53    10.42    11.18    9.93    16.25    6.23    0.75    8.25    3.96    1.05    3.67    1.95    0.75    1.58    1.04    0.60    0.79    1.12    0.23    0.07    0.15    0.08    0.07
+
+# Uncertainties --> at least stat. and syst.
+nuisance = stat.; theory; syst.; total
+zinvis_uncertaintyDistribution_1 = lnN
+zinvis_uncertaintyDistribution_2 = lnN
+#zinvis_uncertaintyDistribution_3 = lnN
+#zinvis_uncertaintyDistribution_4 = lnN
+zinvis_uncertainty_1 =    10.42    7.86    4.14    1.59    3.70    2.90    1.81    1.43    2.35    1.78    1.13    1.06    1.29    0.98    0.86    0.88    0.84    1.26    0.96    0.24    0.77    0.54    0.28    0.51    0.38    0.24    0.34    0.28    0.21    0.24    0.29    0.13    0.07    0.10    0.08    0.07
+zinvis_uncertaintyUP_2 =    55.76    35.12    14.91    2.12    7.60    5.37    3.21    1.89    3.10    2.03    1.32    1.05    0.92    0.61    0.79    0.45    0.58    1.63    0.71    0.15    0.84    0.46    0.20    0.38    0.23    0.14    0.17    0.12    0.12    0.08    0.18    0.04    0.01    0.02    0.02    0.01
+zinvis_uncertaintyDN_2 =    55.77    35.12    14.91    2.12    7.60    5.37    3.21    1.89    3.10    2.03    1.32    1.05    0.92    0.61    0.79    0.45    0.58    1.63    0.71    0.15    0.84    0.46    0.20    0.38    0.23    0.14    0.17    0.12    0.12    0.08    0.18    0.04    0.01    0.02    0.02    0.01
+#zinvis_uncertaintyUP_3 =    50.75    31.94    13.64    1.94    6.90    4.88    2.93    1.73    2.81    1.84    1.21    0.96    0.83    0.55    0.72    0.40    0.53    1.39    0.63    0.13    0.71    0.41    0.17    0.32    0.20    0.13    0.14    0.11    0.10    0.07    0.16    0.03    0.01    0.02    0.02    0.01
+#zinvis_uncertaintyDN_3 =    50.76    31.95    13.65    1.94    6.90    4.88    2.93    1.73    2.81    1.84    1.21    0.96    0.83    0.55    0.72    0.40    0.53    1.39    0.63    0.13    0.71    0.41    0.17    0.32    0.20    0.13    0.14    0.11    0.10    0.07    0.16    0.03    0.01    0.02    0.02    0.01
+#zinvis_uncertainty_4 =    23.07    14.59    6.02    0.85    3.17    2.25    1.31    0.77    1.30    0.85    0.54    0.43    0.38    0.25    0.32    0.19    0.24    0.86    0.32    0.07    0.44    0.21    0.09    0.21    0.11    0.07    0.09    0.05    0.05    0.05    0.08    0.02    0.01    0.02    0.01    0.01
